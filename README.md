@@ -1,6 +1,3 @@
 # Trans
-
-> 基于百度翻译api的vb.net程序。
-
-
+>鍩轰簬鐧惧害缈昏瘧api鐨剉b.net绋嬪簭
 ![demo preview](https://github.com/shulkme/Trans/blob/master/preview.png)
