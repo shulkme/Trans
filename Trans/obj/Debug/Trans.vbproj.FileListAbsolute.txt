@@ -1,0 +1,27 @@
+C:\Users\Mr.Lin\AppData\Local\Temporary Projects\Trans\bin\Debug\Trans.exe.config
+C:\Users\Mr.Lin\AppData\Local\Temporary Projects\Trans\bin\Debug\Trans.exe
+C:\Users\Mr.Lin\AppData\Local\Temporary Projects\Trans\bin\Debug\Trans.pdb
+C:\Users\Mr.Lin\AppData\Local\Temporary Projects\Trans\bin\Debug\Trans.xml
+C:\Users\Mr.Lin\AppData\Local\Temporary Projects\Trans\obj\Debug\Trans.vbprojAssemblyReference.cache
+C:\Users\Mr.Lin\AppData\Local\Temporary Projects\Trans\obj\Debug\Trans.Resources.resources
+C:\Users\Mr.Lin\AppData\Local\Temporary Projects\Trans\obj\Debug\Trans.vbproj.GenerateResource.cache
+C:\Users\Mr.Lin\AppData\Local\Temporary Projects\Trans\obj\Debug\Trans.vbproj.CoreCompileInputs.cache
+C:\Users\Mr.Lin\AppData\Local\Temporary Projects\Trans\obj\Debug\Trans.exe
+C:\Users\Mr.Lin\AppData\Local\Temporary Projects\Trans\obj\Debug\Trans.xml
+C:\Users\Mr.Lin\AppData\Local\Temporary Projects\Trans\obj\Debug\Trans.pdb
+C:\Users\Mr.Lin\AppData\Local\Temporary Projects\Trans\obj\Debug\Trans.Form.resources
+E:\Work\Code\VBN\Trans\Trans\Trans\bin\Debug\Trans.exe.config
+E:\Work\Code\VBN\Trans\Trans\Trans\bin\Debug\Trans.exe
+E:\Work\Code\VBN\Trans\Trans\Trans\bin\Debug\Trans.pdb
+E:\Work\Code\VBN\Trans\Trans\Trans\bin\Debug\Trans.xml
+E:\Work\Code\VBN\Trans\Trans\Trans\obj\Debug\Trans.Form.resources
+E:\Work\Code\VBN\Trans\Trans\Trans\obj\Debug\Trans.Resources.resources
+E:\Work\Code\VBN\Trans\Trans\Trans\obj\Debug\Trans.vbproj.GenerateResource.cache
+E:\Work\Code\VBN\Trans\Trans\Trans\obj\Debug\Trans.vbproj.CoreCompileInputs.cache
+E:\Work\Code\VBN\Trans\Trans\Trans\obj\Debug\Trans.exe
+E:\Work\Code\VBN\Trans\Trans\Trans\obj\Debug\Trans.xml
+E:\Work\Code\VBN\Trans\Trans\Trans\obj\Debug\Trans.pdb
+E:\Work\Code\VBN\Trans\Trans\Trans\obj\Debug\Trans.FormSetting.resources
+E:\Work\Code\VBN\Trans\Trans\Trans\bin\Debug\Newtonsoft.Json.dll
+E:\Work\Code\VBN\Trans\Trans\Trans\obj\Debug\Trans.vbproj.CopyComplete
+E:\Work\Code\VBN\Trans\Trans\Trans\obj\Debug\Trans.vbprojAssemblyReference.cache
